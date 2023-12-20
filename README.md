@@ -1,1 +1,1 @@
-# jest-js-tuts
+# jest-js-docs-tuts
